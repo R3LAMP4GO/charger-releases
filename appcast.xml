@@ -3,6 +3,14 @@
     <channel>
         <title>ChargerBreakup</title>
         <item>
+            <title>1.0.29</title>
+            <pubDate>Sun, 02 Aug 2026 22:36:36 +0000</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/R3LAMP4GO/charger-releases/releases/download/v1.0.29/ChargerBreakup-1.0.29.dmg" length="7475409" type="application/octet-stream" sparkle:edSignature="VUzwJb5hwuUzna3mP4brYf22zXgMg1udlArbaPb+QudbH18orbFPWRNh1YPsxDJqmN2XW23EfcOpc62/Ftl1CQ=="/>
+        </item>
+        <item>
             <title>1.0.28</title>
             <pubDate>Sun, 02 Aug 2026 22:05:08 +0000</pubDate>
             <sparkle:version>36</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/R3LAMP4GO/charger-releases/releases/download/v1.0.27/ChargerBreakup-1.0.27.dmg" length="7462110" type="application/octet-stream" sparkle:edSignature="K+nzB3XCDhtnCRzq1D1jvQ5hdZ/LfvdYQpVqt/L3bkaBdJefGT7/mpalCWuGCKLUxotzayF3YdHYbA2AX6OdBw=="/>
-        </item>
-        <item>
-            <title>1.0.26</title>
-            <pubDate>Sun, 02 Aug 2026 19:25:47 +0000</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/R3LAMP4GO/charger-releases/releases/download/v1.0.26/ChargerBreakup-1.0.26.dmg" length="7456204" type="application/octet-stream" sparkle:edSignature="aHJXEBxrx3tx2jNa5+HcFJHEx4KdmV6+GMO1SWWzIXgw38oCsMaTg+ORmUB5grFXzW6N0qV3LnSgWhCfesVMBQ=="/>
         </item>
     </channel>
 </rss>
